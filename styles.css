@@ -264,7 +264,10 @@ img.c {
   height: auto;
   cursor: zoom-out;
 }
-
+.cont_img{
+  display: flex;
+  justify-content: center;
+ }
 img.img {
  width: 100%;
   height: auto;
